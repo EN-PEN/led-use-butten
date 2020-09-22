@@ -13,6 +13,8 @@ if(digitalRead)(2==0);
   digitalWrite(3,LOW);
 }
 
+![image]()
+
 題目2：
 int A=0;
 void setup() {
