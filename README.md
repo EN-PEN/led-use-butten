@@ -41,3 +41,4 @@ switch(A)
   {digitalWrite(3,HIGH);}
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 }
+![image]()
