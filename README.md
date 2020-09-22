@@ -13,7 +13,7 @@ if(digitalRead)(2==0);
   digitalWrite(3,LOW);
 }
 
-![image]()
+![image](https://github.com/EN-PEN/led-use-butten/blob/master/IMG20200922144210.jpg)
 
 題目2：
 int A=0;
