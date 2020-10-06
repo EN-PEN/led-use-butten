@@ -1,4 +1,5 @@
 題目1:
+```C++
 void setup() {<br>
   // put your setup code here, to run once:<br>
   pinMode(2,INPUT);<br>
@@ -12,10 +13,11 @@ void loop() {<br>
 if(digitalRead)(2==0);<br>
   digitalWrite(3,LOW);<br>
 }<br>
-
+```
 ![image](https://github.com/EN-PEN/led-use-butten/blob/master/IMG20200922144210.jpg)
 
 題目2：
+```C++
 int A=0;
 void setup() {<br>
   // put your setup code here, to run once:<br><br>
@@ -39,6 +41,7 @@ switch(A)<br>
  {digitalWrite(3,LOW);}<br>
  case 0:<br>
   {digitalWrite(3,HIGH);}<br>
-}<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+}<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
 }<br>
+```
 ![image](https://github.com/EN-PEN/led-use-butten/blob/master/IMG20200922144623.jpg)
