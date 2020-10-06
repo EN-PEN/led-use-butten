@@ -1,17 +1,17 @@
 題目1:
-void setup() {
-  // put your setup code here, to run once:
-  pinMode(2,INPUT);
-  pinMode(3,OUTPUT);
-  digitalWrite(3,HIGH);
+void setup() {<br>
+  // put your setup code here, to run once:<br>
+  pinMode(2,INPUT);<br>
+  pinMode(3,OUTPUT);<br>
+  digitalWrite(3,HIGH);<br>
   
-}
+}<br>
 
-void loop() {
+void loop() {<br>
  
-if(digitalRead)(2==0);
-  digitalWrite(3,LOW);
-}
+if(digitalRead)(2==0);<br>
+  digitalWrite(3,LOW);<br>
+}<br>
 
 ![image](https://github.com/EN-PEN/led-use-butten/blob/master/IMG20200922144210.jpg)
 
